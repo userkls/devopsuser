@@ -1,0 +1,3 @@
+Deployed and configured AWS EC2 instances to support scalable applications and infrastructure needs
+Configured inbound and outbound ports for EC2 instances, optimizing network access and security.
+Installed and configured Jenkins on AWS EC2, automating build and deployment processes.

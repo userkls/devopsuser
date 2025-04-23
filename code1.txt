@@ -1,1 +1,4 @@
-hello world
+I created repositry
+now I want  to add? Readdme.md file , How to add?
+ask copilot : I created the repositry, now I want to add read me file how to add?
+
