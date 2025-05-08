@@ -3,3 +3,4 @@ Configured inbound and outbound ports for EC2 instances, optimizing network acce
 Installed and configured Jenkins on AWS EC2, automating build and deployment processes.
 Configured AWS CLI for seamless authentication and secure access management using IAM roles and policies.
 creating users, and assigning user permisions,creating role and attach that IAM Role to ec2 instance, creating s3 buckets
+created EKS cluster

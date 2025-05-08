@@ -2,3 +2,15 @@ I created repositry
 now I want  to add? Readdme.md file , How to add?
 ask copilot : I created the repositry, now I want to add read me file how to add?
 
+
+
+create a new repository on the command line
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/userkls/devopsuser.git
+git push -u origin main
+
+devopsuser is a git repo
